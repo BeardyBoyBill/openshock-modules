@@ -1,0 +1,22 @@
+{
+  "name": "Bill's Modules",
+  "id": "bills-modules",
+  "author": "BeardyBoyBill",
+  "homepage": "https://github.com/BeardyBoyBill/openshock-modules",
+  "modules": {
+    "openshock.desktop.modules.lolshock": {
+      "name": "LoL Shock",
+      "description": "Vibrate, beep or shock on damage, death, revive and loss in League of Legends.",
+      "sourceUrl": "https://github.com/BeardyBoyBill/openshock-modules",
+      "iconUrl": null,
+      "versions": {
+        "1.0.1": {
+          "url": "https://github.com/BeardyBoyBill/openshock-modules/releases/download/lolshock-v1.0.1/openshock.desktop.modules.lolshock_1.0.1.zip",
+          "sha256Hash": "21ab7b54d2f6d07fb912530984a006ea548050ced20ab2ea7605e2ac7a07b063",
+          "changelogUrl": null,
+          "releaseUrl": "https://github.com/BeardyBoyBill/openshock-modules/releases/tag/lolshock-v1.0.1"
+        }
+      }
+    }
+  }
+}
