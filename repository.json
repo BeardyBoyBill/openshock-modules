@@ -8,7 +8,7 @@
       "name": "LoL Shock",
       "description": "Vibrate, beep or shock on damage, death, revive and loss in League of Legends.",
       "sourceUrl": "https://github.com/BeardyBoyBill/openshock-modules",
-      "iconUrl": null,
+      "iconUrl": "https://github.com/BeardyBoyBill/openshock-modules/blob/main/LoLShock-Icon.webp?raw=true",
       "versions": {
         "1.0.1": {
           "url": "https://github.com/BeardyBoyBill/openshock-modules/releases/download/lolshock-v1.0.1/openshock.desktop.modules.lolshock_1.0.1.zip",
